@@ -2,4 +2,4 @@
 
 Python:
 
-- [Snail](Snail/snail.py)
+- [Snail](Snail/)
