@@ -2,4 +2,5 @@
 
 Python:
 
-- [Snail](Snail/)
+- [Snail sort](snail_sort/)
+- [Human readable duration format](human_readable_duration_format/)
