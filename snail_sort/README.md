@@ -19,4 +19,4 @@ For better understanding, please follow the numbers of the next array consecutiv
 
 *NOTE 2: The 0x0 (empty matrix) is represented as en empty array inside an array [[]].*
 
-[*Source*](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/python)
+[*Source*](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)

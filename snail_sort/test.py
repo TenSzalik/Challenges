@@ -1,5 +1,5 @@
 import unittest
-from snail import snail
+from main import snail
 
 class TestMain(unittest.TestCase):
     def test_snail(self):
