@@ -1,6 +1,7 @@
 import unittest
 from main import format_duration
 
+
 class TestMain(unittest.TestCase):
     def test_human_redable_format(self):
         self.assertEqual(format_duration(1), "1 second")

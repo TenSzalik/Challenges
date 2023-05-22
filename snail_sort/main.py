@@ -1,8 +1,10 @@
 import copy
 
+
 def add_and_pop_to_snail(snail_map, sorted_list):
     sorted_list.append(snail_map[0])
     snail_map.pop(0)
+
 
 def get_rotated_list(snail_map):
     rotated_list = []
@@ -18,10 +20,11 @@ def get_rotated_list(snail_map):
 
     return rotated_list
 
+
 def snail(snail_map):
     sorted_list = []
     count = len([item for sublist in snail_map for item in sublist])
-    
+
     if count <= 1:
         return snail_map[0]
 
